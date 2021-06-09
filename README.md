@@ -11,8 +11,11 @@ Another constrain is customers leaving without voicing their complaints.
 The scope of this project is to identify factors contributing to customer attrition and thereby recommend strategies that may help in regain trust and improve the overall customer satisfaction levels.
 
 # Approach:
+
 1.	In this project, I have tried to divide customer churn prediction problem into steps like exploration, profiling, clustering, model selection & evaluation. Based on this analysis, we can help retention team to analyse high risk churn customers before they leave the company.
+
 2.	Moreover, we can add on different data sources like customer inquiries, seasonality in sales, more demographic information to make our prediction more accurate.
+
 3.	From the results and explanations presented here, some conclusion can be draw:
 The type of account segment has a strict relationship with churned clients, Low Tenure with high complaints could lead a client to leave the service. Clients with a greater number of account_user_count tend to leave.
 
@@ -64,9 +67,13 @@ This makes intuitive sense if you think about all the steps involved — there�
 Wouldn’t it be nicer to keep the customers you already have than work twice as hard on the acquisition front? I think so…
 
 # Business Recommendations:
+
 1.	Complaint redressal needs to be a major focus point as a large number of customer attrition is attributed to complaints. To address this, a dedicated customer service team needs to be formed that is trained to be sensitive about complaints and trained to appropriately handle such complaints. Customers should have the option to directly contact this team for faster resolution, through dedicated IVR (Interactive Voice Response) options or dedicated chat links on the company’s website. 
+
 2.	The fact that customers who have recently contacted the CC have attritted more than customers who have not contacted, points to the fact that these customers were unhappy with the way they were dealt with. To address this, the CC staff needs to be trained on technical and soft skills to enable them to provide outstanding customer service. A dedicated training team working in sync with the supervisors would be effective in understanding where the staff is lacking and then accordingly train them to be more effective. This will enhance the customer experience and would greatly help in regaining the customer’s trust.
+
 3.	Tier 2 & 3 customers are more likely to attrite. A survey comprising of both close-ended and open-ended questions would help in understanding the factors leading to tier 2 and tier 3 attritions.
+
 4.	Monitor the issues raised by the Tier 2 and Tier 3 customers to understand the major areas of improvement.
 
 # Conclusion: 
