@@ -19,23 +19,28 @@ The type of account segment has a strict relationship with churned clients, Low 
 
 We can now see that the main factors are.
 1.	Customer Demography:
+    
     Tenure
       •	Longtime customers are less likely to leave the company.
       •	Loyalty
+    
     Gender
       •	Male customers tend to churn more.
       •	Attrack them with some sports, games, and discovery type channels combo packages.
 
 2.	Customer record analysis:
-  	Account_segment
+  	
+    Account_segment
       •	People having Regular Plus are more likely to leave.
       •	Is there something wrong with the Regular Plus segment?
 
 3.	Customer care service analysis:
+    
     Complain_ly
       •	People having more complaints are more likely to leave.
       •	Are customers unhappy with the solution given by customer service.
-  	Service score
+  	
+    Service score
       •	Low score given by customers tend to churn.
       •	Resolve their problems by giving them good offers like cashback or free channels for one month.
 
