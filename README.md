@@ -21,27 +21,37 @@ We can now see that the main factors are.
 1.	Customer Demography:
     
     Tenure
+     
       a) Longtime customers are less likely to leave the company.
+      
       b) Loyalty
     
     Gender
+      
       a) Male customers tend to churn more.
+      
       b) Attrack them with some sports, games, and discovery type channels combo packages.
 
 2.	Customer record analysis:
   	
     Account_segment
+      
       a) People having Regular Plus are more likely to leave.
+      
       b) Is there something wrong with the Regular Plus segment?
 
 3.	Customer care service analysis:
     
     Complain_ly
+      
       a) People having more complaints are more likely to leave.
+      
       b) Are customers unhappy with the solution given by customer service.
   	
     Service score
+      
       a) Low score given by customers tend to churn.
+      
       b) Resolve their problems by giving them good offers like cashback or free channels for one month.
 
 # Business Implications:
