@@ -11,9 +11,9 @@ Another constrain is customers leaving without voicing their complaints.
 The scope of this project is to identify factors contributing to customer attrition and thereby recommend strategies that may help in regain trust and improve the overall customer satisfaction levels.
 
 # Approach:
-•	In this project, I have tried to divide customer churn prediction problem into steps like exploration, profiling, clustering, model selection & evaluation. Based on this analysis, we can help retention team to analyse high risk churn customers before they leave the company.
-•	Moreover, we can add on different data sources like customer inquiries, seasonality in sales, more demographic information to make our prediction more accurate.
-•	From the results and explanations presented here, some conclusion can be draw:
+1.	In this project, I have tried to divide customer churn prediction problem into steps like exploration, profiling, clustering, model selection & evaluation. Based on this analysis, we can help retention team to analyse high risk churn customers before they leave the company.
+2.	Moreover, we can add on different data sources like customer inquiries, seasonality in sales, more demographic information to make our prediction more accurate.
+3.	From the results and explanations presented here, some conclusion can be draw:
 The type of account segment has a strict relationship with churned clients, Low Tenure with high complaints could lead a client to leave the service. Clients with a greater number of account_user_count tend to leave.
 
 
@@ -21,28 +21,28 @@ We can now see that the main factors are.
 1.	Customer Demography:
     
     Tenure
-      •	Longtime customers are less likely to leave the company.
-      •	Loyalty
+      a) Longtime customers are less likely to leave the company.
+      b) Loyalty
     
     Gender
-      •	Male customers tend to churn more.
-      •	Attrack them with some sports, games, and discovery type channels combo packages.
+      a) Male customers tend to churn more.
+      b) Attrack them with some sports, games, and discovery type channels combo packages.
 
 2.	Customer record analysis:
   	
     Account_segment
-      •	People having Regular Plus are more likely to leave.
-      •	Is there something wrong with the Regular Plus segment?
+      a) People having Regular Plus are more likely to leave.
+      b) Is there something wrong with the Regular Plus segment?
 
 3.	Customer care service analysis:
     
     Complain_ly
-      •	People having more complaints are more likely to leave.
-      •	Are customers unhappy with the solution given by customer service.
+      a) People having more complaints are more likely to leave.
+      b) Are customers unhappy with the solution given by customer service.
   	
     Service score
-      •	Low score given by customers tend to churn.
-      •	Resolve their problems by giving them good offers like cashback or free channels for one month.
+      a) Low score given by customers tend to churn.
+      b) Resolve their problems by giving them good offers like cashback or free channels for one month.
 
 # Business Implications:
 Depending on the re-engagement campaign, it can be a good trade-off to target the highest possible number of customers at risk to churn, and in parallel unintentionally reach some happy customers, than to leave a high number of customers to cancel without taking proper actions.
